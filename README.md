@@ -26,6 +26,6 @@
 </p>
 
 #### GitHub Statistics
-<img align="center" alt="GitHub Stats of siddharthadas15" src="https://github-readme-stats.vercel.app/api?username=siddharthadas15&show_icons=true&hide_border=true&hide=issues&count_private=true&include_all_commits=true&theme=merko&custom_title=stats of siddharthadas15">
-<img src="https://en9xb0gzo52m0su.m.pipedream.net">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthadas15&langs_count=8&theme=tokyonight&layout=compact">
+<img src="https://en9xb0gzo52m0su.m.pipedream.net">
+
