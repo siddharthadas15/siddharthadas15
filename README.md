@@ -26,7 +26,7 @@
 </p>
 
 #### GitHub Statistics
-(https://github-readme-stats.vercel.app/api?username=siddharthadas15&show_icons=true&count_private=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=siddharthadas15&show_icons=true&count_private=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthadas15&langs_count=8&theme=tokyonight&layout=compact">
 <img src="https://en9xb0gzo52m0su.m.pipedream.net">
 
